@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **TobiZelli/tobizelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there,
-
-i am Tobi and a Electronics technician for devices and systems.
+I'm Tobi a Electronics technician for devices and systems based in Germany.
 
 I love programming as a hobby.
 

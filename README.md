@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there,
+
+i am Tobi and a Electronics technician for devices and systems.
+
+I love programming as a hobby.
+
+## About me
+  - 🐈 I have a cat
+  - 🍵 Tea person here
+  - 🍜 Anime all the way
